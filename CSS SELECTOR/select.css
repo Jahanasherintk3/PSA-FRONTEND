@@ -1,0 +1,26 @@
+.x {
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#y {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: brown;
+}
+
+span {
+    background-color: blanchedalmond;
+}
+
+.xy {
+    color: aqua;
+}
+.x{
+    background-color: yellow;
+}
+#z{
+    background-color: yellowgreen;
+}
